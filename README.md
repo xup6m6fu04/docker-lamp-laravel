@@ -102,6 +102,8 @@ services: # 準備建置的服務
 
 ### 實際操作影片
 
+https://drive.google.com/open?id=1DCT5FpfnoolDEZMFe9Vdd0JaE5RUyxc6 來這下載
+
 1. 刪除本來有的 Image and Container
 2. 開始 Build and Run Instance
 3. 範例結果展示
